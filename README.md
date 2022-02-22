@@ -2,6 +2,7 @@
 
 + [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
 + [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
++ [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=red)](https://dart.dev/guides/testing)
 + [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=orange)](https://dart.dev/guides/testing)  
 
 <!--
