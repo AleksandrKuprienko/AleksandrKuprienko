@@ -1,7 +1,7 @@
 [![](https://media-exp1.licdn.com/dms/image/C4D16AQEx01Ac84RJkQ/profile-displaybackgroundimage-shrink_350_1400/0/1596628693500?e=1651104000&v=beta&t=QXHj5d0PbluFoTkkrXdv92zLvXaW08OzqfFMsJiX6uk)](Flutter.dev)  
 
 ### ☎️ Contacts    
-+ **Telegram:** [@4kuper](https://t.me/4kuper)   
++ **Telegram:** [@Akuper](https://t.me/Akuper)   
 + **E-mail:** [akuperflutterdev@gmail.com](mailto:akuperflutterdev@gmail.com)  
 + **Linkedin:** [linkedin.com/in/AleksandrKuprienko](https://www.linkedin.com/in/aleksandr-kuprienko-a34151153/)  
 
