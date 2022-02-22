@@ -1,5 +1,9 @@
 ### Hi there 👋
 
++ [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
++ [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=orange)](https://dart.dev/guides/testing)  
+
 <!--
 **AleksandrKuprienko/AleksandrKuprienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
