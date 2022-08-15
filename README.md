@@ -8,9 +8,7 @@
 
 ### ⚙️ Tech stack  
 + [![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=blue)](https://dart.dev/)  
-+ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)  
-+ [![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=red)](https://docs.swift.org/swift-book/)
-+ [![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=orange)](https://firebase.flutter.dev/)  
++ [![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue)](http://flutter.dev/)
 
 <!--
 **AleksandrKuprienko/AleksandrKuprienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
