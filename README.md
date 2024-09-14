@@ -2,7 +2,7 @@
 
 ### ☎️ Contacts     
 + **E-mail:** [akuperflutterdev@gmail.com](mailto:akuperflutterdev@gmail.com)  
-+ **Linkedin:** [linkedin.com/in/AleksandrKuprienko](linkedin.com/in/oleksandr-kupriienko-a34151153](https://www.linkedin.com/in/oleksandr-kupriienko-a34151153)
++ **Linkedin:** [linkedin.com/in/AleksandrKuprienko](https://www.linkedin.com/in/oleksandr-kupriienko-a34151153)
 
 
 ### ⚙️ Tech stack  
